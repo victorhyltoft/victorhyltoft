@@ -5,6 +5,7 @@ Hi, I'm a passionate self-taught developer working as a freelancer and looking t
 
 **Languages and Tools👇:**
 
+<code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
 <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
@@ -22,7 +23,6 @@ Hi, I'm a passionate self-taught developer working as a freelancer and looking t
 <br><br>
 
 **Currently focusing on:**
- * Flutter (Dart) & Firebase <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
- * Webscrabing with Selenium
+ * Flutter <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
  * Artificial Intelligence
 
