@@ -1,7 +1,6 @@
 ## Hey, I'm Victor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-Hi, I'm a passionate self-taught developer working as a freelancer and looking to broaden my horizon with new languages and daily challanges. My passion for software lies in creating and maintaining helpful and beautiful applications that can make the world just a tiny bit better.   
-<br>
+<insert description right here>
 
 **Languages and Tools👇:**
 
