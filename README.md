@@ -22,6 +22,5 @@
 <br><br>
 
 **Currently focusing on:**
+ * Java and datas tructures 
  * Flutter <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
- * Artificial Intelligence
-
