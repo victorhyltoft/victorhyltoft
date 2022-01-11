@@ -12,15 +12,15 @@
 <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="24" src="https://img.icons8.com/color/452/dart.png"></code>
+<code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
 
 
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"></code>
 <code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg"></code>
-<code><img height="24" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg"></code>
 <br><br>
 
 **Currently focusing on:**
- * Java and datas tructures 
- * Flutter <code><img height="24" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
+ * Java and data structures 
+ * React and MongoDB
