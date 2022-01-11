@@ -23,4 +23,4 @@
 
 **Currently focusing on:**
  * Java and data structures 
- * React and MongoDB
+ * The MERN Stack
